@@ -7,6 +7,12 @@ This repository contains a collection of Java GUI wallpapers that I created usin
 Here are the wallpapers included in this repository:
 
 - *Add your wallpaper names here*
+-CodeWallpaper
+-FractalWallpaper
+-HeartBrokenWallpaper
+-ProgrammerWallpaper
+-QuoteWallpaper
+
 
 ## How to use
 
